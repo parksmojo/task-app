@@ -1,0 +1,4 @@
+Task App documentation:
+
+8/10/24:
+- The idea is to have a simple app for creating and tracking tasks
